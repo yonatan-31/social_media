@@ -17,13 +17,13 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Call Us",
-    value: "+1 (234) 567-890",
-    href: "tel:+1234567890",
+    value: "+2511782541",
+    href: "tel:+2511782541",
   },
   {
     icon: MapPin,
     title: "Visit Us",
-    value: "123 Creative Street, Digital District, City 10001",
+    value: "Bole, addis ababa, ethiopia",
     href: "#",
   },
   {

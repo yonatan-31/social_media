@@ -14,12 +14,12 @@ const contactInfo = [
   {
     icon: Phone,
     title: "Call Us",
-    value: "+1 (234) 567-890",
+    value: "+2511782541",
   },
   {
     icon: MapPin,
     title: "Visit Us",
-    value: "123 Creative Street, Digital District",
+    value: "Bole, addis ababa, ethiopia",
   },
 ];
 
@@ -93,7 +93,7 @@ export const ContactSection = () => {
                     name="name"
                     value={formData.name}
                     onChange={handleChange}
-                    placeholder="John Doe"
+                    placeholder="abebe"
                     required
                     className="bg-card border-border"
                   />
@@ -108,7 +108,7 @@ export const ContactSection = () => {
                     type="email"
                     value={formData.email}
                     onChange={handleChange}
-                    placeholder="john@example.com"
+                    placeholder="abebe@example.com"
                     required
                     className="bg-card border-border"
                   />

@@ -31,25 +31,21 @@ const values = [
 
 const team = [
   {
-    name: "Alex Thompson",
+    name: "Abel Tesfaye",
     role: "Founder & CEO",
-    image: "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&h=400&fit=crop",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpjyIID4cwAPHYQQV57TesRKwEpjSC5NMmeg&s",
   },
   {
-    name: "Sarah Chen",
+    name: "Sarah Kebede",
     role: "Creative Director",
-    image: "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&h=400&fit=crop",
+    image: "https://i.pinimg.com/564x/13/ac/b0/13acb0b1970d4100939b41f11b885cc6.jpg",
   },
   {
     name: "Marcus Johnson",
     role: "Head of Strategy",
     image: "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&h=400&fit=crop",
   },
-  {
-    name: "Emily Rodriguez",
-    role: "Lead Designer",
-    image: "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&h=400&fit=crop",
-  },
+ 
 ];
 
 const About = () => {

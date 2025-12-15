@@ -88,13 +88,13 @@ export const Footer = () => {
               <li className="flex items-start gap-3">
                 <MapPin size={18} className="text-primary mt-0.5 flex-shrink-0" />
                 <span className="text-muted-foreground text-sm">
-                  123 Creative Street, Digital District, City 10001
+                  Bole, addis ababa, ethiopia
                 </span>
               </li>
               <li className="flex items-center gap-3">
                 <Phone size={18} className="text-primary flex-shrink-0" />
-                <a href="tel:+1234567890" className="text-muted-foreground hover:text-primary transition-colors text-sm">
-                  +1 (234) 567-890
+                <a href="tel:+2511782541" className="text-muted-foreground hover:text-primary transition-colors text-sm">
+                  +2511782541
                 </a>
               </li>
               <li className="flex items-center gap-3">

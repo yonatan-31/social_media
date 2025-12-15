@@ -8,37 +8,37 @@ const portfolioItems = [
     id: 1,
     title: "Brand Campaign",
     category: "Digital Marketing",
-    image: "https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=500&h=700&fit=crop",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTdMKZ2qKIscYqgGsKzngs0cFCxMtGdV7PFQ&s",
   },
   {
     id: 2,
     title: "Social Content",
     category: "Content Production",
-    image: "https://images.unsplash.com/photo-1611162616305-c69b3fa7fbe0?w=500&h=700&fit=crop",
+    image: "https://cdn.dribbble.com/userupload/27746979/file/original-594b4aacc09cc775437d31183f0efc5a.png?resize=400x0",
   },
   {
     id: 3,
     title: "Product Launch",
     category: "Video Production",
-    image: "https://images.unsplash.com/photo-1626785774573-4b799315345d?w=500&h=700&fit=crop",
+    image: "https://mir-s3-cdn-cf.behance.net/projects/404/875a97238182375.Y3JvcCwzNTEzLDI3NDgsMCww.jpg",
   },
   {
     id: 4,
     title: "Corporate Identity",
     category: "Branding",
-    image: "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=500&h=700&fit=crop",
+    image: "https://mir-s3-cdn-cf.behance.net/projects/404/b1a0d3224314901.Y3JvcCwzMTcwLDI0ODAsMTY0LDA.jpg",
   },
   {
     id: 5,
     title: "Event Coverage",
     category: "Photography",
-    image: "https://images.unsplash.com/photo-1505373877841-8d25f7d46678?w=500&h=700&fit=crop",
+    image: "https://mir-s3-cdn-cf.behance.net/projects/404/5cb74e228701735.Y3JvcCwxMDgwLDg0NCwwLDg.jpg",
   },
   {
     id: 6,
     title: "Influencer Campaign",
     category: "Social Media",
-    image: "https://images.unsplash.com/photo-1611162618071-b39a2ec055fb?w=500&h=700&fit=crop",
+    image: "https://mir-s3-cdn-cf.behance.net/projects/404/f5be97210920389.Y3JvcCw4MDgsNjMyLDAsMA.jpg",
   },
 ];
 
