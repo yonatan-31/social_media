@@ -1,7 +1,6 @@
 Welcome to Your Project
 Project info
 
-URL: https://your-project-url.dev/projects/REPLACE_WITH_PROJECT_ID
 
 How can I edit this code?
 
